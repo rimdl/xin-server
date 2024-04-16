@@ -1,0 +1,5 @@
+storage: S3 #more please wait
+db: mongodb #more please wait
+base_url: 'http://localhost:3000/'
+gitee:
+  client_id: '63c27403277cb5ebba32f49449d12cb85e9a8b2b95c270186e3f99143adb1cb1'
